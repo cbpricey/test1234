@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{78A98C59-634F-4B8C-9DB5-7BCFD2ACA85D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fall2024-Assignment2-cbprice PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fall2024-Assignment2-cbprice/wwwroot/js/site.js">
+    <Files>
+      <File FileName="Fall2024-Assignment2-cbprice/wwwroot/index.html" Line="37" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/wwwroot/css/site.css" Line="1" Column="2" />
+      <File FileName="Fall2024-Assignment2-cbprice/Program.cs" Line="21" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/wwwroot/js/site.js" Line="71" Column="33" />
+      <File FileName="Fall2024-Assignment2-cbprice/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/appsettings.json" Line="1" Column="1" />
+      <File FileName="Fall2024-Assignment2-cbprice/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall2024-Assignment2-cbprice-recource1" expanded="True">
+            <Node name="Fall2024-Assignment2-cbprice">
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
